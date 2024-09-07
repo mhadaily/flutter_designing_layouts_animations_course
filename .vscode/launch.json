@@ -1,0 +1,44 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "module02",
+			"request": "launch",
+			"program": "lib/module02/main.dart",
+			"type": "dart"
+		},
+		{
+			"name": "module03",
+			"request": "launch",
+			"program": "lib/module03/main.dart",
+			"type": "dart"
+		},
+		{
+			"name": "module04",
+			"request": "launch",
+			"program": "lib/module04/main.dart",
+			"type": "dart"
+		},
+		{
+			"name": "module05",
+			"request": "launch",
+			"program": "lib/module05/main.dart",
+			"type": "dart"
+		},
+		{
+			"name": "flutter_designing_layouts_animations_course (profile mode)",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "flutter_designing_layouts_animations_course (release mode)",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		}
+	]
+}
